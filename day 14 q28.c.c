@@ -1,0 +1,27 @@
+/*
+* Name : Nitesh Yadav
+* Sap Id : 590043204
+* Day : 23 Question : 028
+* Date : 23-08-2026
+*
+*PROBLEM  STATEMENT :
+<Write a program to print the product of even numbers from 1 to n>
+*/
+
+#include <stdio.h>
+int main()
+{
+    int n, i,product=1;
+
+    printf("Enter the value of n: ");
+    scanf("%d", &n);
+
+    for(int i = 2; i <= n; i += 2)
+    {
+        product = product * i;
+    }
+
+    printf("The product of even numbers from 1 to %d is: %d", n, product);
+
+    return 0;
+}
