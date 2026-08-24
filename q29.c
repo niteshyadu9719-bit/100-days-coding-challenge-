@@ -1,8 +1,8 @@
 /*
 * Name : Nitesh Yadav
 * Sap Id : 590043204
-* Day : 00 Question : 00
-* Date : 20-08-2026
+* Day : 15 Question : 29
+* Date : 24-08-2026
 *
 * PROBLEM  STATEMENT :
 * <Write a program to calculate the factorial of a number.>
