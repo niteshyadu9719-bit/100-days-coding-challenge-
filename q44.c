@@ -2,7 +2,7 @@
 * Name : Nitesh Yadav
 * Sap Id : 590043204
 * Day : 23 Question : 44
-* Date : 31-08-2026
+* Date : 01-09-2026
 *
 * PROBLEM  STATEMENT :
 * <Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.>
