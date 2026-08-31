@@ -2,7 +2,7 @@
 * Name : Nitesh Yadav
 * Sap Id : 590043204
 * Day : 23 Question : 45
-* Date : 23-08-2026
+* Date : 01-08-2026
 *
 * PROBLEM  STATEMENT :
 * <Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.>
