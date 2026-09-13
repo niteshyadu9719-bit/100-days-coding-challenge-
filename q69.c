@@ -2,7 +2,7 @@
 * Name : Nitesh Yadav
 * Sap Id : 590042304
 * Day : 35 Question : 69
-* Date : 12-09-2026
+* Date : 13-09-2026
 *
 * PROBLEM  STATEMENT :
 * < Find the second largest element in an array.>
