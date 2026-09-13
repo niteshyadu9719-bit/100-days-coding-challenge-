@@ -2,7 +2,7 @@
 * Name : Nitesh Yadav
 * Sap Id : 590043204
 * Day : 35 Question : 70
-* Date : 12-09-2026
+* Date : 13-09-2026
 *
 * PROBLEM  STATEMENT :
 * < Rotate an array to the right by k positions.>
